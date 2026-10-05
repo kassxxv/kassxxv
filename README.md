@@ -16,12 +16,3 @@
   <img src="https://skillicons.dev/icons?i=py,arduino,css,html,git,postman,md" />
   <img src="https://skillicons.dev/icons?i=pycharm,vscode,azure,obsidian,linux" />
 </p>
-<hr>
-
-<p align="center">
-  <img width="360" alt="Spotify recently played" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=313jgxt7x33t5eoc7ivkh4ov7j4a&theme=transparent&time=0&logo=0&avatar=0&unique=1&profile=off&accent_color=e5c07b&logo_color=e5c07b" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/kassxxv"><img height="130" src="https://github-stats-extended.vercel.app/api/top-langs?username=kassxxv&layout=compact&hide_title=true&langs_count=4&theme=dark_github" /></a>
-</p>
